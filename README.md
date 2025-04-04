@@ -1,6 +1,6 @@
 # Тестовое задание на позицию «Junior/Middle Frontend developer (React, Next.JS)» для «АО РК-ТЕХНОЛОГИИ»
 
-[Демо](https://)
+[Демо](https://lalexd.github.io/test-ao-pk-technologii)
 
 ## Выполнил
 

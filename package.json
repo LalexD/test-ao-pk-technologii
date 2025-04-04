@@ -1,7 +1,7 @@
 {
   "name": "test-ao-pk-technologii",
   "version": "0.1.0",
-  "homepage": "https://lalexd.github.io/test-ao-pk-technologii ",
+  "homepage": "https://lalexd.github.io/test-ao-pk-technologii",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",

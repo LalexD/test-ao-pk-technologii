@@ -1,0 +1,11 @@
+.main {
+  padding: 8px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.preview {
+  max-width: 200px;
+  max-height: 400px;
+}

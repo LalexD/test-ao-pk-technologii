@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/test-ao-pk-technologii%20/static/css/main.e4919b8e.css",
-    "main.js": "/test-ao-pk-technologii%20/static/js/main.57125ff2.js",
-    "index.html": "/test-ao-pk-technologii%20/index.html",
-    "main.e4919b8e.css.map": "/test-ao-pk-technologii%20/static/css/main.e4919b8e.css.map",
-    "main.57125ff2.js.map": "/test-ao-pk-technologii%20/static/js/main.57125ff2.js.map"
+    "main.css": "/test-ao-pk-technologii/static/css/main.e4919b8e.css",
+    "main.js": "/test-ao-pk-technologii/static/js/main.92b17aab.js",
+    "index.html": "/test-ao-pk-technologii/index.html",
+    "main.e4919b8e.css.map": "/test-ao-pk-technologii/static/css/main.e4919b8e.css.map",
+    "main.92b17aab.js.map": "/test-ao-pk-technologii/static/js/main.92b17aab.js.map"
   },
   "entrypoints": [
     "static/css/main.e4919b8e.css",
-    "static/js/main.57125ff2.js"
+    "static/js/main.92b17aab.js"
   ]
 }
